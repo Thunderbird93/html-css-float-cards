@@ -1,3 +1,15 @@
 .intro {
     text-align: center;
+    color: #D34371;
+}
+
+.box {
+    height: 100px;
+    width: 358px;
+    background-color: #0F0E16;
+    margin: 10px;
+}
+
+ul li {
+    list-style: none;
 }
