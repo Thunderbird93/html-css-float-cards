@@ -7,7 +7,6 @@
     margin: auto;
     width: 85%;
     padding: 20px;
-
 }
 
 .intro {
@@ -88,4 +87,8 @@ ul li .nome, .prof {
     background-size: cover;
 }
 
-.t
+.lorem {
+    text-align: center;
+    text-size-adjust: auto;
+
+}
