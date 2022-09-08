@@ -20,7 +20,7 @@ main {
     width: 358px;
     background-color: #0F0E16;
     margin: 32px;
-    /* float: left; */
+    float: left;
 }
 
 
@@ -86,3 +86,8 @@ ul li .nome, .prof {
     width: 100px;
     background-size: cover;
 }
+
+.titolo {
+    float: left;
+}
+
