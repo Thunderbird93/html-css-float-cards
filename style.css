@@ -32,5 +32,47 @@ ul li .nome, .prof {
     width: 100px;
     background-color: aliceblue;
     float: left;
-    margin-left: auto;
  }
+
+.f-a {
+    background-image: url("img/male1.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.f-b {
+    background-image: url("img/female1.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.f-c {
+    background-image: url("img/male2.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.f-a {
+    background-image: url("img/male1.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.f-d {
+    background-image: url("img/female2.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.f-e {
+    background-image: url("img/male3.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.f-f {
+    background-image: url("img/female3.png");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
