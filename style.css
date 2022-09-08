@@ -3,6 +3,7 @@
     color: #D34371;
 }
 
+
 .box {
     height: 100px;
     width: 358px;
@@ -11,6 +12,25 @@
     float: left;
 }
 
+
 ul li {
     list-style: none;
 }
+
+
+ul li .nome, .prof {
+    color: #FFFFFE;
+}
+
+
+ ul li .mail {
+    color: #5EC8ED;
+ }
+
+ .foto {
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: auto;
+ }
