@@ -3,10 +3,11 @@
     padding: 0;
 }
 
-main {
-    width: calc(70%);
+.titolo {
+    margin: auto;
+    width: 85%;
     padding: 20px;
-    text-align: center;
+
 }
 
 .intro {
@@ -87,7 +88,4 @@ ul li .nome, .prof {
     background-size: cover;
 }
 
-.titolo {
-    float: left;
-}
-
+.t
